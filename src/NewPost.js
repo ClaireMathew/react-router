@@ -1,6 +1,6 @@
 import { useHistory } from 'react-router-dom';
 import { format } from 'date-fns';
-import { useStoreState, useStoreActions, action } from 'easy-peasy';
+import { useStoreState, useStoreActions } from 'easy-peasy';
 
 const NewPost = () => {
     const history = useHistory();
