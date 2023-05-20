@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Grocery List",
+      "datetime": "April 23, 2023 12:10:25 PM",
+      "body": "Grocery List is a project made by Clara Mathews. This enables you to create a grocery list or you can change it to any other list according to your wish."
+    },
+    {
+      "id": 2,
+      "title": "Color Changer",
+      "datetime": "May 19, 2023 10:24:44 PM",
+      "body": "Color changer is a project created by Clara Mathews. It shows you the color you type in. This is great to understand some colors."
+    },
+    {
+      "id": 3,
+      "title": "React JS Blog",
+      "datetime": "May 13, 2023 06:27:32 PM",
+      "body": "This Blog was made by Clara Mathews. In fact ,this the blog that you're now looking at."
+    }
+  ]
+}
