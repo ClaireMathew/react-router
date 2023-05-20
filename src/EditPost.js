@@ -28,7 +28,7 @@ const handleEdit = (id) => {
   const datetime= format(new Date(), 'MMMM dd, yyyy pp');
   const updatedPost = { id, title: editTitle, datetime, body: editBody };
   editPost(updatedPost);
-  history.push('/post/${id}');
+  history.push(`/post/${id}`);
 }
 
   return (
